@@ -1,0 +1,9 @@
+{
+    "name": "@eduardogomesf/codegen-mock",
+    "version": "1.0.0",
+    "description": "",
+    "type": "module",
+    "main": "index.js",
+    "author": "eduardogomesf",
+    "license": "ISC"
+}
