@@ -1,6 +1,6 @@
 import { repositoryTemplate } from './repositoryTemplate.js'
-import { serviceTemplate } from './serviceTemplate'
-import { factoryTemplate } from './factoryTemplate'
+import { serviceTemplate } from './serviceTemplate.js'
+import { factoryTemplate } from './factoryTemplate.js'
 
 export default {
     repositoryTemplate,
